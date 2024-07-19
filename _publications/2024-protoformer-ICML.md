@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2024-protoformer-ICML
 excerpt: 'This work refines the feature representations via prototype-feature association'
 date: 2024-06-03
-venue: 'Proceedings of the 41st International Conference on Machine Learning'
+venue: 'Proceedings of the 41st International Conference on Machine Learning (ICML)'
 paperurl: 'https://arxiv.org/pdf/2406.01559'
-citation: 'Han, C., Lu, Y., Sun, G., Liang, J., Cao, Z., Wang, Q., Guan, Q., Dianat, S.A., Rao, R.M., Geng, T., Tao, Z., & Liu, D. (2024). Prototypical Transformer as Unified Motion Learners. ArXiv, abs/2406.01559.'
+citation: 'Han, C., Lu, Y., Sun, G., Liang, J., Cao, Z., Wang, Q., Guan, Q., Dianat, S.A., Rao, R.M., Geng, T., Tao, Z., & Liu, D. (2024). Prototypical Transformer as Unified Motion Learners. ICML'
 ---
 
 In this work, we introduce the Prototypical Transformer (ProtoFormer), a general and unified framework that approaches various motion tasks from a prototype perspective.

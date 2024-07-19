@@ -1,0 +1,12 @@
+---
+title: "Aligning Out-of-Distribution Web Images and Caption Semantics via Evidential Learning"
+collection: publications
+permalink: /publication/2024-SQLLaVA-ECCV
+excerpt: 'This work efficiently improve the pre-trained vision-language networks in terms of robustness and performance when handling ID and OOD cases in image-text retrieval tasks via evidence knowledge.'
+date: 2024-05-13
+venue: 'Proceedings of the ACM on Web Conference (WWW)'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3589334.3645653'
+citation: '<strong>Guohao Sun</strong>, Yue Bai, Xueying Yang, Yi Fang, Yun Fu, and Zhiqiang Tao. 2024. Aligning Out-of-Distribution Web Images and Caption Semantics via Evidential Learning. In Proceedings of the ACM on Web Conference 2024 (WWW '24).'
+---
+
+Vision-language models, pre-trained on web-scale datasets, have the potential to greatly enhance the intelligence of web applications (e.g., search engines, chatbots, and art tools). Precisely, these models align disparate domains into a co-embedding space, achieving impressive zero-shot performance on multi-modal tasks (e.g., image-text retrieval, VQA). However, existing methods often rely on well-prepared data that less frequently contain noise and variability encountered in real-world scenarios, leading to severe performance drops in handling out-of-distribution (OOD) samples. This work first comprehensively analyzes the performance drop between in-distribution (ID) and OOD retrieval. Based on empirical observations, we introduce a novel approach, Evidential Language-Image Posterior (ELIP), to achieve robust alignment between web images and semantic knowledge across various OOD cases by leveraging evidential uncertainties. The proposed ELIP can be seamlessly integrated into general image-text contrastive learning frameworks, providing an efficient fine-tuning approach without exacerbating the need for additional data. To validate the effectiveness of ELIP, we systematically design a series of OOD cases (e.g., image distortion, spelling errors, and a combination of both) on two benchmark datasets to mimic noisy data in real-world web applications. Our experimental results demonstrate that ELIP improves the performance and robustness of mainstream pre-trained vision-language models facing OOD samples in image-text retrieval tasks.
