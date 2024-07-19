@@ -1,7 +1,7 @@
 ---
 title: "Aligning Out-of-Distribution Web Images and Caption Semantics via Evidential Learning"
 collection: publications
-permalink: /publication/2024-SQLLaVA-ECCV
+permalink: /publication/2024-ELIP-WWW
 excerpt: 'This work efficiently improve the pre-trained vision-language networks in terms of robustness and performance when handling ID and OOD cases in image-text retrieval tasks via evidence knowledge.'
 date: 2024-05-13
 venue: 'Proceedings of the ACM on Web Conference (WWW)'
