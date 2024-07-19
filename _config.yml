@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Guohao"
   pronouns         : "he/his"  
-  bio              : "I'm a PhD student studying machine learning at Rochester Institute of Technology (RIT), advised by [Zhiqiant Tao](https://ztao.cc/)."
+  bio              : "PhD student studying machine learning at Rochester Institute of Technology (RIT)."
   location         : "Rochester, NY"
   employer         : "Rochester Institute of Technology"
   uri              : # URL
@@ -34,9 +34,9 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=tf2GWowAAAAJ&hl"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0009-0002-0935-6196"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   researchgate     : # URL
 
   # Repositories and software development
@@ -48,7 +48,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          :  # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
