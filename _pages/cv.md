@@ -11,35 +11,40 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computing and Information Science, Rochester Institute of Technology, 2026 (expected)
+* M.S. in Computer Science, Santa Clara University, 2023
+* B.S. in Computer Engineering, Michigan State University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2023: Research Assistant 
+  * Rochester Institute of Technology
+  * Duties includes: Research on robust Machine Learning, Vision-Language alignment, auto-regressive, in-context learning, reinforcement learning
+  * Supervisor: Dr. Zhiqiang Tao
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Research Assistant 
+  * Santa Clara University
+  * Duties includes: Research on robust Machine Learning, Vision-Language alignment
+  * Supervisor: Dr. Zhiqiang Tao
+
+* 2020: Software Engineer 
+  * Robotrak Technologies Co., Ltd.
+  * Duties includes: Software development, Machine Learning application
+  * Supervisor: Dr. Qi Yin
+
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Maching learning
+* Computer Vision
+* NLP
+* Programming
+  * C++
+  * Python
+  * Pytorch
+
 
 Publications
 ======
@@ -47,7 +52,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
