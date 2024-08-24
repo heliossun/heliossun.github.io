@@ -1,7 +1,10 @@
 ---
 title: "The ACM on Web Conference (WWW) at Singapore (2024)"
-excerpt: "Standing for a post at the main conference. <br/><img src='/images/500x300.png'>"
+excerpt: "Singapore <br/><img src='/images/www-singapore/2.jpg'>"
 collection: portfolio
 ---
-
+Singapore city view.
+<img src='/images/www-singapore/3.jpg'>
+<img src='/images/www-singapore/4.jpg'>
+<img src='/images/www-singapore/5.jpg'>
 
