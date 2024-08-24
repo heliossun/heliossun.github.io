@@ -21,10 +21,10 @@ repository               : "heliossun/heliossun.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Guohao Sun"
   pronouns         : "he/his"  
-  bio              : "PhD student at Rochester Institute of Technology (RIT)."
+  bio              : "PhD student | Research Assistant | ML, CV, NLP."
   location         : "Rochester, NY"
   employer         : "Rochester Institute of Technology"
   uri              : # URL
