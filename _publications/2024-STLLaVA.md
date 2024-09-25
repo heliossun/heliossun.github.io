@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-STLLaVA
 excerpt: 'This work have introduced a novel self-training approach to enhance the data efficiency of training LVLMs for medical tasks'
 date: 2024-03-17
-venue: 'arxiv'
+venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 'https://arxiv.org/pdf/2406.19973'
 citation: 'Sun, G., Qin, C., Fu, H., Wang, L., & Tao, Z. (2024). STLLaVA-Med: Self-Training Large Language and Vision Assistant for Medical.'
 ---
