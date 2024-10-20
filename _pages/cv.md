@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Download my [CV](https://github.com/heliossun/heliossun.github.io/blob/master/files/Guohao_CV.pdf)
+<div class="wordwrap">You can find my latest CV <a href="{{https://github.com/heliossun/heliossun.github.io/blob/master/files/Guohao_CV.pdf}}">here</a>.</div>
 
 Education
 ======
