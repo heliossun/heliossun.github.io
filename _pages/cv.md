@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download my [CV](https://github.com/heliossun/heliossun.github.io/blob/master/files/Guohao_CV.pdf)
+
 Education
 ======
 * Ph.D in Computing and Information Science, Rochester Institute of Technology, 2026 (expected)
