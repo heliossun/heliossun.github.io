@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="wordwrap">You can find my latest CV <a href="{{/files/Guohao_CV.pdf}}">here</a>.</div>
+<div class="wordwrap">You can find my latest CV <a href="/files/Guohao_CV.pdf">here</a>.</div>
 
 Education
 ======
