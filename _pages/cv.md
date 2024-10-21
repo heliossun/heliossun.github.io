@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-<div class="wordwrap">You can find my latest CV <a href="{{https://github.com/heliossun/heliossun.github.io/blob/master/files/Guohao_CV.pdf}}">here</a>.</div>
+<div class="wordwrap">You can find my latest CV <a href="{{/files/Guohao_CV.pdf}}">here</a>.</div>
 
 Education
 ======
-* Ph.D in Computing and Information Science, Rochester Institute of Technology, 2026 (expected)
+* Ph.D. in Computing and Information Science, Rochester Institute of Technology, 2026 (expected)
 * M.S. in Computer Science, Santa Clara University, 2023
 * B.S. in Computer Engineering, Michigan State University, 2018
 
