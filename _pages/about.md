@@ -7,15 +7,18 @@ redirect_from:
   - /about.html
 ---
 Hi! I'm Guohao, a Computing and Information Science Ph.D. student studying Maching Learning in the [School of Information](https://www.rit.edu/computing/school-of-information) at the Rochester Institute of Technology (RIT), advised by [Zhiqiang Tao](https://ztao.cc/).
-My research primarily centers on data-centric approaches for vision-language models, emphasizing the understanding of robust general vision-language understanding and adaptation to downstream tasks. This includes uncertainty, reinforcement learning, and elimination of hallucination to enhance the robustness of deep generative model.
+My research primarily centers on data-centric approaches for vision-language models, emphasizing the understanding of robust general vision-language alignment and adaptation to downstream tasks. This includes uncertainty estimation, preference optimization, and elimination of hallucination to enhance the robustness of large vision-language models. 
 
 
 
 My research
 ======
 
-I am drawn to simplicity, strive to understand things deeply, and enjoy building practical systems.
-Currently, I am fascinated by foundation models like GPT-4, CLIP, and DALL-E. These models, trained on extensive data using self-supervision at an immense scale, can be adapted to a wide range of downstream tasks. Foundation models represent a paradigm shift in AI development and human-AI interaction. My focus is on understanding how these models work, and improving their intelligence and robustness with multi-modal information.
+I am drawn to simplicity, strive to understand things deeply, and enjoy building practical
+systems. Currently, I am fascinated by multi-modal foundation models like GPT-4o and CLIP, which can
+be adapted to a wide range of downstream tasks. My focus is on understanding how these models work,
+and improving their reasoning ability and robustness with self-questioning, preference optimization and
+evidential knowledge.
 
 
 
