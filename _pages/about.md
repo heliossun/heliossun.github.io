@@ -6,19 +6,15 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Guohao, a Computing and Information Science Ph.D. student studying Maching Learning in the [School of Information](https://www.rit.edu/computing/school-of-information) at the Rochester Institute of Technology (RIT), advised by [Zhiqiang Tao](https://ztao.cc/).
-My research primarily centers on data-centric approaches for vision-language models, emphasizing the understanding of robust general vision-language alignment and adaptation to downstream tasks. This includes uncertainty estimation, preference optimization, and elimination of hallucination to enhance the robustness of large vision-language models. 
+Hi! I'm Guohao, a Ph.D. candidate studying Maching Learning at the [School of Information](https://www.rit.edu/computing/school-of-information), Rochester Institute of Technology (RIT), advised by [Zhiqiang Tao](https://ztao.cc/).
+My research focuses on data-centric approaches to vision–language modeling, with an emphasis on perception, reasoning, and reliable generalization in multimodal systems. I am particularly interested in improving vision–language models through preference optimization, latent reasoning, and hallucination mitigation, grounded in probabilistic and information-theoretic principles.
 
 
 
 My research
 ======
 
-I am drawn to simplicity, strive to understand things deeply, and enjoy building practical
-systems. Currently, I am fascinated by multi-modal foundation models like GPT-4o and CLIP, which can
-be adapted to a wide range of downstream tasks. My focus is on understanding how these models work,
-and improving their reasoning ability and robustness with self-questioning, preference optimization and
-evidential knowledge.
+I am drawn to simplicity, value principled understanding, and enjoy building practical systems. My current research focuses on multimodal foundation models such as GPT-4o and CLIP, which can be adapted to a wide range of downstream tasks. I aim to study how these models reason and fail, and to enhance their robustness and reliability through pretraining and fine-tuning techniques, including self-questioning, structured reasoning, variational attention, and information bottleneck–based modeling.
 
 
 

@@ -12,24 +12,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Computing and Information Science, Rochester Institute of Technology, 2026 (expected)
+* Ph.D. in Computing and Information Science, Rochester Institute of Technology, (present)
 * M.S. in Computer Science, Santa Clara University, 2023
 * B.S. in Computer Engineering, Michigan State University, 2018
 
 Work experience
 ======
 
-* 2023: Research Assistant 
-  * Rochester Institute of Technology
-  * Duties includes: Research on robust Machine Learning, Vision-Language alignment, auto-regressive, in-context learning, reinforcement learning
-  * Supervisor: Dr. Zhiqiang Tao
+* Sep 2025 - Present: Research Scientist Intern
+  * Meta Superintelligence Labs (MSL), FAIR Team
+  * Project: Variational Information Restriction in VLM – Visual-Centric Generation.
+  * Supervisor: Dr. Praveen Krishnan
 
-* 2022: Research Assistant 
-  * Santa Clara University
-  * Duties includes: Research on robust Machine Learning, Vision-Language alignment
-  * Supervisor: Dr. Zhiqiang Tao
+* May 2025 - Sep 2025: Research Intern 
+  * Snap Research, Computational Imaging Team
+  * Project:   * Project: Information flow guided token pruning in VLM.
+  * Supervisor: Dr. Jian Wang
 
-* 2020: Software Engineer 
+* Mar 2020 - Jul 2021: Software Engineer 
   * Robotrak Technologies Co., Ltd.
   * Duties includes: Software development, Machine Learning application
   * Supervisor: Dr. Qi Yin
