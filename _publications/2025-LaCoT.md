@@ -2,7 +2,7 @@
 title: "Latent Chain-of-Thought for Visual Reasoning"
 collection: publications
 permalink: /publication/2025-LaCoT
-excerpt: 'This work has introduced a new deep-RL method that enhances VLM's reasoning ability.'
+excerpt: 'This work has introduced a new deep-RL method that enhances VLM reasoning ability.'
 date: 2025-10-27
 venue: 'NeurIPS'
 paperurl: 'https://arxiv.org/abs/2510.23925'
