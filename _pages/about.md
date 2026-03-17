@@ -30,10 +30,10 @@ I received my B.S. from the [College of Engineering](https://engineering.msu.edu
   <!-- Snap -->
   <div style="background:#e9e9e9;padding:20px;border-radius:12px;width:420px;display:flex;align-items:center;">
     
-    <img src="/images/snap.png" style="width:70px;height:70px;margin-right:20px;">
+    <img src="/images/snap.png" style="max-width:150px; height:auto;margin-right:20px;">
     
     <div>
-      <div style="font-weight:700;font-size:20px;">Snap Inc.</div>
+      <div style="font-weight:700;font-size:20px;">Snap Inc., Snap Research (Computational imaging)</div>
       <div>Research Scientist Intern</div>
       <div style="color:#666;">2025</div>
     </div>
@@ -43,10 +43,10 @@ I received my B.S. from the [College of Engineering](https://engineering.msu.edu
   <!-- Meta -->
   <div style="background:#e9e9e9;padding:20px;border-radius:12px;width:420px;display:flex;align-items:center;">
     
-    <img src="/images/meta.jpg" style="width:70px;height:70px;margin-right:20px;">
+    <img src="/images/meta.jpg" style="max-width:150px; height:auto;margin-right:20px;">
     
     <div>
-      <div style="font-weight:700;font-size:20px;">Meta</div>
+      <div style="font-weight:700;font-size:20px;">Meta, MSL (FAIR Team)</div>
       <div>Research Scientist Intern</div>
       <div style="color:#666;">2026</div>
     </div>
