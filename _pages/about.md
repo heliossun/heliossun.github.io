@@ -25,30 +25,30 @@ I received my B.S. from the [College of Engineering](https://engineering.msu.edu
 
 
 
-<div style="display:flex; gap:30px; flex-wrap:wrap; margin-top:20px;">
+<div style="display:flex; gap:30px; flex-wrap:wrap; margin-top:10px;">
 
   <!-- Snap -->
-  <div style="background:#E2F2F8;padding:20px;border-radius:12px;width:420px;display:flex;align-items:center;">
+  <div style="background:#E2F2F8;padding:10px;border-radius:12px;width:400px;display:flex;align-items:center;">
     
-    <img src="/images/snap.png" style="max-width:120px; height:auto;margin-right:20px;">
+    <img src="/images/snap.png" style="max-width:120px; height:auto;margin-right:10px;">
     
     <div>
-      <div style="font-weight:700;font-size:14px;">Snap Research, Computational Imaging Team</div>
-      <div style="font-size:12px;">Research Scientist Intern</div>
-      <div style="font-size:12px;color:#666;">2025</div>
+      <div style="font-weight:700;font-size:16px;">Snap Research, Computational Imaging Team</div>
+      <div style="font-size:14px;">Research Scientist Intern</div>
+      <div style="font-size:14px;color:#666;">2025</div>
     </div>
 
   </div>
 
   <!-- Meta -->
-  <div style="background:#E2F2F8;padding:20px;border-radius:12px;width:420px;display:flex;align-items:center;">
+  <div style="background:#E2F2F8;padding:10px;border-radius:12px;width:400px;display:flex;align-items:center;">
     
-    <img src="/images/meta.jpg" style="max-width:120px; height:auto;margin-right:20px;">
+    <img src="/images/meta.jpg" style="max-width:120px; height:auto;margin-right:10px;">
     
     <div>
-      <div style="font-weight:700;font-size:14px;">Meta Superintelligence Labs (MSL), FAIR Team</div>
-      <div style="font-size:12px;">Research Scientist Intern</div>
-      <div style="font-size:12px;color:#666;">2026</div>
+      <div style="font-weight:700;font-size:16px;">Meta Superintelligence Labs (MSL), FAIR Team</div>
+      <div style="font-size:14px;">Research Scientist Intern</div>
+      <div style="font-size:14px;color:#666;">2026</div>
     </div>
 
   </div>
