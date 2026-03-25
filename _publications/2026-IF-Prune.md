@@ -1,5 +1,5 @@
 ---
-title: "Latent Chain-of-Thought for Visual Reasoning"
+title: "IF-Prune: Information-Flow Guided Token Pruning for Efficient Vision-Language Models"
 collection: publications
 permalink: /publication/2026-IF-Prune
 excerpt: 'This work has introduced a statistic way to provide an importance map for token pruning in VLM.'
