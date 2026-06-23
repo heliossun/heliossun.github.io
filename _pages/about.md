@@ -6,8 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi! I'm Guohao, a Ph.D. candidate studying Maching Learning at the [School of Information](https://www.rit.edu/computing/school-of-information), Rochester Institute of Technology (RIT), advised by [Zhiqiang Tao](https://ztao.cc/).
-My research focuses on data-centric approaches to vision–language modeling, with an emphasis on perception, reasoning, and reliable generalization in multimodal systems. I am particularly interested in improving vision–language models through preference optimization, latent reasoning, and hallucination mitigation, grounded in probabilistic and information-theoretic principles.
+Hi! I'm Guohao, a Ph.D. candidate studying Machine Learning at the [School of Information](https://www.rit.edu/computing/school-of-information), Rochester Institute of Technology (RIT), advised by [Zhiqiang Tao](https://ztao.cc/).
+My research focuses on data-centric approaches to vision–language modeling, with an emphasis on perception, reasoning, and representation learning. I am particularly interested in addressing the fundamental issues grounded in probabilistic and information-theoretic principles.
 
 
 
